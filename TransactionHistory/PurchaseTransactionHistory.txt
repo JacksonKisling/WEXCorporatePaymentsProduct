@@ -1,0 +1,3 @@
+{"id":"3daf138c-f520-4e63-ab68-4e5ea7bfed8c","description":"test transaction 01","transactionDate":"2025-10-16T00:00:00","purchaseAmount":100.00}
+{"id":"5d0ceb10-c01c-4345-ac0e-7464a8873fd7","description":"test transaction 02","transactionDate":"2024-01-01T00:00:00","purchaseAmount":1000000.00}
+{"id":"22a787fc-d824-430f-af2f-a8a097411d6f","description":"test transaction 03","transactionDate":"2023-01-01T00:00:00","purchaseAmount":500.00}
